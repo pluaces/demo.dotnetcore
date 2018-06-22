@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "myApp/1.0.0": {
+      "demo.dotnetcore/1.0.0": {
         "runtime": {
-          "myApp.dll": {}
+          "demo.dotnetcore.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "myApp/1.0.0": {
+    "demo.dotnetcore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,11 @@
+C:\dev\demo.dotnetcore\bin\Debug\netcoreapp2.1\demo.dotnetcore.deps.json
+C:\dev\demo.dotnetcore\bin\Debug\netcoreapp2.1\demo.dotnetcore.runtimeconfig.json
+C:\dev\demo.dotnetcore\bin\Debug\netcoreapp2.1\demo.dotnetcore.runtimeconfig.dev.json
+C:\dev\demo.dotnetcore\bin\Debug\netcoreapp2.1\demo.dotnetcore.dll
+C:\dev\demo.dotnetcore\bin\Debug\netcoreapp2.1\demo.dotnetcore.pdb
+C:\dev\demo.dotnetcore\obj\Debug\netcoreapp2.1\demo.dotnetcore.csprojAssemblyReference.cache
+C:\dev\demo.dotnetcore\obj\Debug\netcoreapp2.1\demo.dotnetcore.csproj.CoreCompileInputs.cache
+C:\dev\demo.dotnetcore\obj\Debug\netcoreapp2.1\demo.dotnetcore.AssemblyInfoInputs.cache
+C:\dev\demo.dotnetcore\obj\Debug\netcoreapp2.1\demo.dotnetcore.AssemblyInfo.cs
+C:\dev\demo.dotnetcore\obj\Debug\netcoreapp2.1\demo.dotnetcore.dll
+C:\dev\demo.dotnetcore\obj\Debug\netcoreapp2.1\demo.dotnetcore.pdb
